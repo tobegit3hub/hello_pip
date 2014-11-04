@@ -12,7 +12,7 @@ __copyright__ = 'Copyright 2014'
 __credits__ = []
 
 __license__ = 'Apache 2.0'
-__version__ = '1.0.0'
+__version__ = '1.0.1'
 __maintainer__ = 'tobe'
 __email__ = 'tobeg3oogle@gmail.com'
 __status__ = 'Production'
@@ -33,7 +33,7 @@ setuptools.setup(
     url=__url__,
     description=__description__,
     long_description=open('./readme.md').read(),
-    classifiers=['Development Status :: 5 - Production',
+    classifiers=['Development Status :: 4 - Beta',
                  'Intended Audience :: Developers',
                  'Programming Language :: Python',
                  'Programming Language :: Python :: 2.6',
