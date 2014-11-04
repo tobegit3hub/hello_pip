@@ -26,4 +26,4 @@ You can learn how to distribute your Python libraries from [hello_pip](https://p
 * [Writing the Setup Script](https://docs.python.org/2/distutils/setupscript.html)
 * [Getting Started With setuptools and setup.py](https://pythonhosted.org/an_example_pypi_project/setuptools.html)
 * [Adding a Package to PyPi For the 1st Time](http://jamie.curle.io/blog/my-first-experience-adding-package-pypi/)
-
+* [Tutorial on Packaging and Distributing Projects](hhttps://packaging.python.org/en/latest/distributing.html)
