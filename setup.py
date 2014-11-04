@@ -12,7 +12,7 @@ __copyright__ = 'Copyright 2014'
 __credits__ = []
 
 __license__ = 'Apache 2.0'
-__version__ = '1.0.1'
+__version__ = '1.0.4'
 __maintainer__ = 'tobe'
 __email__ = 'tobeg3oogle@gmail.com'
 __status__ = 'Production'
@@ -32,7 +32,7 @@ setuptools.setup(
     maintainer_email=__email__,
     url=__url__,
     description=__description__,
-    long_description=open('./readme.md').read(),
+    #long_description=open('./readme.md').read(),
     classifiers=['Development Status :: 4 - Beta',
                  'Intended Audience :: Developers',
                  'Programming Language :: Python',
@@ -46,11 +46,11 @@ setuptools.setup(
                  'Topic :: Utilities',
                  'License :: OSI Approved :: Apache Software License'],
     platforms=['Independent'],
-    license=open('./license').read(),
+    #license=open('./license').read(),
     namespace_packages=['hello'],
     packages=['hello'],
-    install_requires=open('./requirements.txt').read(),
+    #install_requires=open('./requirements.txt').read(),
     zip_safe=False,
-    tests_require=open('./tests/requirements.txt').read(),
+    #tests_require=open('./tests/requirements.txt').read(),
     test_suite='nose.collector'
 )

@@ -1,21 +1,23 @@
+
 # Hello Pip
 
 ## Introduction
 
 It's the pip library to say hello.
 
-You can learn how to distribute your Python libraries from hello_pip.
+You can learn how to distribute your Python libraries from [hello_pip](https://pypi.python.org/pypi/hello_pip).
 
 ## Usage
 
-* `pip install hello`
-* `import hello`
+* `pip install hello_pip` or `python setup.py install`
+* `import hello.hello`
 * `hello.hello.hello_pip()`
+* Then it will output "Hello pip".
 
-## Process
+## How It works
 
-* Write your file like [setup.py](https://github.com/tobegit3hub/hello_pip/blob/master/setup.py)
-* Registry account in <https://pypi.python.org/pypi>.
+* Write the setup file like [setup.py](https://github.com/tobegit3hub/hello_pip/blob/master/setup.py).
+* Registry an account in <https://pypi.python.org/pypi>.
 * Run `python setup.py register`
 * Then run `python setup.py sdist upload`
 
