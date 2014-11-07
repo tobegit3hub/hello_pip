@@ -47,7 +47,6 @@ setuptools.setup(
                  'License :: OSI Approved :: Apache Software License'],
     platforms=['Independent'],
     #license=open('./license').read(),
-    namespace_packages=['hello'],
     packages=['hello'],
     #install_requires=open('./requirements.txt').read(),
     zip_safe=False,
