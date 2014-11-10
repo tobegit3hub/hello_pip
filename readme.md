@@ -1,6 +1,8 @@
 
 # Hello Pip
 
+[![PyPi version](https://pypip.in/v/hello_pip/badge.png)](https://pypi.python.org/pypi/hello_pip) [![PyPi downloads](https://pypip.in/d/hello_pip/badge.png)](https://pypi.python.org/pypi/hello_pip)
+
 ## Introduction
 
 It's the pip library to say hello.
