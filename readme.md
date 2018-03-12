@@ -1,7 +1,7 @@
 
 # Hello Pip
 
-[![PyPi version](https://pypip.in/v/hello_pip/badge.png)](https://pypi.python.org/pypi/hello_pip) [![PyPi downloads](https://pypip.in/d/hello_pip/badge.png)](https://pypi.python.org/pypi/hello_pip)
+[![PyPi version](https://img.shields.io/pypi/v/hello_pip.svg)](https://pypi.python.org/pypi/hello_pip) [![PyPi downloads](https://img.shields.io/pypi/dm/hello_pip.svg)](https://pypi.python.org/pypi/hello_pip)
 
 ## Introduction
 
